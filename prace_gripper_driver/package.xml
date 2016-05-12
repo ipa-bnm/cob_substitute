@@ -2,14 +2,14 @@
   <name>prace_gripper_driver</name>
   <version>0.6.3</version>
   <description>prace_gripper_driver</description>
-  <maintainer email="aub@ipa.fhg.de">Alexander Bubeck</maintainer>
+  <maintainer email="bnm@ipa.fhg.de">Benjamin Maidel</maintainer>
 
   <license>BSD</license>
 
   <url type="website">http://ros.org/wiki/prace_gripper_driver</url>
   <!-- <url type="bugtracker"></url> -->
 
-  <author email="aub@ipa.fhg.de">Alexander Bubeck</author>
+  <author email="bnm@ipa.fhg.de">Benjamin Maidel/author>
 
   <buildtool_depend>catkin</buildtool_depend>
 
